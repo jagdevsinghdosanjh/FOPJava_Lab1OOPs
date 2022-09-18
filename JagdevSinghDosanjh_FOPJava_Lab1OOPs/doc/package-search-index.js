@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.gl.emailapp.main"},{"l":"com.gl.emailapp.model"},{"l":"com.gl.emailapp.service"}];updateSearchResults();
